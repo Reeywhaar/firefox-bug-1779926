@@ -1,0 +1,11 @@
+{
+  "name": "tab-saver",
+  "version": "1.0.0",
+  "description": "TabSaver Firefox WebExtension",
+  "scripts": {
+    "run": "./node_modules/.bin/web-ext run -s ext"
+  },
+  "devDependencies": {
+    "web-ext": "^7.1.1"
+  }
+}
